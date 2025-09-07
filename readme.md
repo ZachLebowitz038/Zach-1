@@ -12,7 +12,8 @@ application's .exe and ancillary documentation, but have never navigated
 the UI of making my own GitHub project previously. The Introduction to 
 GitHub article on Canvas was quite helpful, despite how simple it might
 be to a more experienced coder. I honestly could not find the **"Add file"**
-button at first, before realizing I had to make a new repository.
+button at first, before realizing I had to make a new repository, so I just took
+a bit longer than others to find where everything is at first.
 
 ## Learning Markdown
 
@@ -24,9 +25,10 @@ to make heads, subheads or sub-subheads, reminded me of using the raw code
 format to edit Wikipedia articles, rather than using their more user-friendly 
 content management system. Again, I am not a life-long coder like others, but
 I've found myself feeling much more in control when using a site's Markup
-language directly. For more complex manuevers like making tables, I typically
+language directly. For more complex maneuvers like making tables, I typically
 look at code from other articles and use them as templates so I understand how
-to apply my information within a required system.
+to apply my information within a required format. I really found the [Markdown Guide](https://www.markdownguide.org/basic-syntax/) resource
+helpful as well.
 
 ## Professional uses of Docs as Code
 
