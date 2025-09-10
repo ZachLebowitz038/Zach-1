@@ -48,16 +48,42 @@ put a certain number of spaces before particular lines, so I understand that usi
 could get confusing pretty quick, when there's just that one extra set of spaces to keep track of.
 
 
-## Professional uses of Docs as Code
+## Use of Images
 
-Press the ![power button icon](/images/power-on.png) *Power* button
-to turn the device on or off.
+I found challenging how to add images to my project, since Markdown does not have a simple UI to insert an image
+as in usual, front end systems like Google Docs. I already knew somewhat of how to add an image using code where I could
+redirect to the path and file name, but it took be a bit to learn how to create a path that I could use in MarkDown in general.
+I ended up create a separate file for images where I could insert whatever I wanted and reference it to add my images. 
+
+So I learned doing this:
+
+```
+![tomato](/images/Tomato.png)
+```
+
+could add my tomato image, since I put said image in my dedicated "images" folder like so:
+
+![tomato](/images/Tomato.png)
+
+
+Although this image is quite large and takes up too much of the screen, which could make my file difficult to read and just look unprofessional depending on
+how I want to present this.
+
+So I decided to look online and found that one could use HTML in Markdown to control the size of an image.
+
+Here's my code:
+
+```
+<img src="/images/Tomato.png" alt="tomato" width="200"/>
+```
+
+Which results in this: <img src="/images/Tomato.png" alt="tomato" width="200"/>
 
 
 ### Conclusion
 
-Overall, this is a bit more familiar to me than I thought, and I'm glad I 
-have at least a beginner's understanding of these concepts already. GitHub has 
-always been a familiar and useful resource to me when trying to find advanced,
-open-source programs that are made free to a community, so I think it is useful
-that I can learn a bit more of how it operates and functions for creators and coders.
+Overall, I learned that both online and class resources are helpful when learning how to add different types of informative content to your Markdown file.
+GitHub has a somewhat odd way of incorperating images for somebody not use to its system, but I was able to find a solution from those familiar, which made 
+sense to me based on my previous knowlage of ensuring paths are all in the right place when utilizing external files in editing programs. I learned how to
+add code examples for convenience in one's documentation and how to properly create lists for ease of reading using the Markdown format, and to make my information
+clear and understandable both to the reader, and myself.
