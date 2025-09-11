@@ -23,7 +23,7 @@ Goodman said she has seen a gamut of Native items at museums that were well main
 
 Now, museums and institutions across the United States, including the University of Minnesota’s Weisman Art Museum, are working on repatriation, which means to return belongings to their original owners or locations. However, Indigenous communities are concerned about potential budget cuts to repatriation efforts, financial hardship of tribes engaged in repatriation and proper treatment of items remaining in museums and private collections.
 
-## The Weisman and NAGPRA
+### The Weisman and NAGPRA
 
 Until the Native American Graves Protection and Repatriation Act, or NAGPRA, passed in 1990, museums stored millions of cultural objects, religious items and even human remains in their displays or as part of private collections.
 
@@ -45,8 +45,7 @@ Weisman spokesperson Susannah Schouweiler, said in an emailed statement any new 
 
 "It's not about trying to keep anything secret; it really is about giving the tribes the space and privacy to do the work, internal to their communities, out of the public eye,” Schouweiler said.
 
-
-## Why NAGPRA?
+### Why NAGPRA?
 
 According to Hayes, NAGPRA is the most thorough act to issue a proper timeline for returning artifacts and remains to the Native community. Previous efforts such as the Antiquities Act of 1906 started to protect Indigenous burial sites and graves from rampant looting, but it was incomplete.  
 
@@ -62,13 +61,12 @@ Goesetch said NAGPRA also requires proper handling of items and human remains wh
 
 “That often includes how are these items going to be stored? Are they going to be stored in our cedar box? Are they going to be wrapped in red felt? Are they going to be stored with traditional medicines?” Goesetch said. 
 
-
-
-## What is Missing
+### What is Missing
 
 <img src="/images/ArtifactChart.png" alt="ArtifactChart" width="700"/> 
 
 *Reported funerary objects and human remains in NAGPRA process. Grahpic by Zach Lebowitz/Hubbard School of Journalism and Mass Communications.*
+
 
 According to a National Parks Service [2024 fiscal report](https://npshistory.com/publications/diversity/nagpra/ann-rpt/2024.pdf), over 3.6 million associated funerary objects reported since 1990 have fully completed their repatriation process as well as over half the human remains first identified since NAGPRA’s 1990 enactment.
 
@@ -92,7 +90,7 @@ While tribes can apply for [NAGPRA grants]( https://www.nps.gov/subjects/nagpra/
 
 “We still have to pay our tribal employees, our tribal experts. We have to pay our attorneys,” Vallo said. “Sometimes it doesn't happen or the result is really left to be unseen because of, again, just the dynamics of each individual repatriation.”
 
-## Museums and Indigenous Voices
+### Museums and Indigenous Voices
 
 Goestch, who is of Dakota descent, said he appreciates museums displaying Native artifacts and art for teaching young people about Indigenous history and culture, namely that of the Dakota and Ojibwe in Minnesota. 
 
@@ -129,3 +127,5 @@ Hayes said museum collaboration with Native people on display pieces should come
 “It's one thing to say, you know, we'd like to invite you to work with us on the display of these items. It's another thing to say, ‘And by the way, should we even have these in the first place?’” Hayes said.
 
 Goodman said she thinks museums and institutions should be financially supporting tribes to store and repatriate their objects. Anthropologists and curators have already built careers from her history – many without consent from those who lived that history.
+
+#### Reflection
