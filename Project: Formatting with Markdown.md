@@ -70,7 +70,7 @@ Goesetch said NAGPRA also requires proper handling of items and human remains wh
 
 *Reported funerary objects and human remains in NAGPRA process. Grahpic by Zach Lebowitz/Hubbard School of Journalism and Mass Communications.*
 
-According to a National Parks Service 2024 fiscal report, over 3.6 million associated funerary objects reported since 1990 have fully completed their repatriation process as well as over half the human remains first identified since NAGPRA’s 1990 enactment.
+According to a National Parks Service [2024 fiscal report](https://npshistory.com/publications/diversity/nagpra/ann-rpt/2024.pdf), over 3.6 million associated funerary objects reported since 1990 have fully completed their repatriation process as well as over half the human remains first identified since NAGPRA’s 1990 enactment.
 
 The process is still incomplete for over 700,000 associated funerary objects and 90,000 human remains.
 
@@ -80,15 +80,15 @@ Hayes said another obstacle to repatriation for museums is an inability to dedic
 
 The 2023 rule also removed the option to transfer unclaimed remains or cultural items to tribes without federal recognition, even if they have a shared social identity to a recognized group.
 
-Goetsch said unrecognized tribes, or those only recognized on a state level, like over 55 tribes in California, instead need to collaborate with another federal tribe to repatriate their objects and ancestors.
+Goetsch said unrecognized tribes, or those only recognized on a state level, like [over 55](https://www.aisc.ucla.edu/ca/tribes14.htm#_ftnref1) tribes in California, instead need to collaborate with another federal tribe to repatriate their objects and ancestors.
 
 While Native Hawaiian organizations are clearly stipulated in NAGPRA, Goetsch said Pacific Islanders from territories occupied by the United States, such as Guam, are not covered by the act either. 
 
-Brian Vallo, former governor of the Pueblo of Acoma in New Mexico, said Republican president Donald Trump’s proposal to eliminate the National Endowment for the Arts and the National Endowment for the Humanities, alongside the Smithsonian's adherence to anti-diversity, equity and inclusion executive orders, threatens staff and resources that could focus on repatriation.
+Brian Vallo, former governor of the Pueblo of Acoma in New Mexico, said Republican president Donald Trump’s proposal to [eliminate](https://www.nytimes.com/2025/05/02/arts/nea.html) the National Endowment for the Arts and the National Endowment for the Humanities, alongside the [Smithsonian's adherence](https://hyperallergic.com/986411/smithsonian-institution-to-shutter-diversity-offices/) to anti-diversity, equity and inclusion executive orders, threatens staff and resources that could focus on repatriation.
 
 “It’s a huge step backwards,” Vallo said.
 
-While tribes can apply for NAGPRA grants to offset the costs of repatriation, Vallo said tribes face financial hurdles that slow down the return of items and ancestors.
+While tribes can apply for [NAGPRA grants]( https://www.nps.gov/subjects/nagpra/grant-opportunities.htm) to offset the costs of repatriation, Vallo said tribes face financial hurdles that slow down the return of items and ancestors.
 
 “We still have to pay our tribal employees, our tribal experts. We have to pay our attorneys,” Vallo said. “Sometimes it doesn't happen or the result is really left to be unseen because of, again, just the dynamics of each individual repatriation.”
 
@@ -100,7 +100,7 @@ Goestch said it is important that museums communicate with tribes in order to ac
 
 “They're completely misinformed or misguided simply because they had never talked to the tribe that's affiliated with those artifacts.” Goestch said. “And so you get a very misunderstanding that then gets passed down through academia and books.”
 
-Goesetch said curators need to consider the people affected by Indigenous grave robbery. It is also harmful when archaeologists perpetuate a narrative that certain artifacts and remains were not, or could not be, of Native origin. 
+Goesetch said curators need to consider the people affected by Indigenous grave robbery. It is also harmful when archaeologists perpetuate a narrative that certain artifacts and remains were not, or could not be, [of Native origin](https://www.thoughtco.com/moundbuilder-myth-history-and-death-171536). 
 
 “It's dehumanizing for a lot of reasons, because a lot of this was done without consultation or without consent. And these burials are not always ancient,” Goesetch said. “You directly know who the descendants are to this day.”
 
