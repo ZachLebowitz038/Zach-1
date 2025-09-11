@@ -2,7 +2,7 @@
 
 Museums and institutions across the United States are working to return traditional sacred items to Native American tribes, but Indigenous communities have financial concerns and comments on the treatment of sacred items.
 
-[insert big drum image here]
+<img src="/images/BigDrum.png" alt="BigDrum" width="200"/>
 Ceremonial Big Drum from the Bad River Tribe — sold on eBay before returning to the Bad River reservation. Photo courtesy of Menominee elder Nelda Goodman.
 
 Nelda Goodman, a Menominee tribal elder, remembers when her white friend, Miriam Horneff, bought a ceremonial Big Drum on eBay from a former Boy Scout leader.
@@ -64,7 +64,7 @@ Goesetch said NAGPRA also requires proper handling of items and human remains wh
 
 ## What is Missing
 
-[Insert Chart Images Here]
+<img src="/images/ArtifactChart.png" alt="ArtifactChart" width="200"/> 
 Reported funerary objects and human remains in NAGPRA process. Grahpic by Zach Lebowitz/Hubbard School of Journalism and Mass Communications.
 
 According to a National Parks Service 2024 fiscal report, over 3.6 million associated funerary objects reported since 1990 have fully completed their repatriation process as well as over half the human remains first identified since NAGPRA’s 1990 enactment.
