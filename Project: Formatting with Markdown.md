@@ -1,6 +1,6 @@
 # Weisman is taking steps to return their Indigenous artifacts, but more can be done.
 
-Museums and institutions across the United States are working to return traditional sacred items to Native American tribes, but Indigenous communities have financial concerns and comments on the treatment of sacred items.
+**Museums and institutions across the United States are working to return traditional sacred items to Native American tribes, but Indigenous communities have financial concerns and comments on the treatment of sacred items.**
 
 <img src="/images/BigDrum.png" alt="BigDrum" width="700"/>
 
@@ -70,7 +70,9 @@ Goesetch said NAGPRA also requires proper handling of items and human remains wh
 
 According to a National Parks Service [2024 fiscal report](https://npshistory.com/publications/diversity/nagpra/ann-rpt/2024.pdf), over 3.6 million associated funerary objects reported since 1990 have fully completed their repatriation process as well as over half the human remains first identified since NAGPRA’s 1990 enactment.
 
-The process is still incomplete for over 700,000 associated funerary objects and 90,000 human remains.
+The process is still incomplete for: 
+* Over 700,000 associated funerary objects 
+* 90,000 human remains.
 
 Hayes said another obstacle to repatriation for museums is an inability to dedicate proper time, staff and resources to the process. 
 
@@ -129,3 +131,5 @@ Hayes said museum collaboration with Native people on display pieces should come
 Goodman said she thinks museums and institutions should be financially supporting tribes to store and repatriate their objects. Anthropologists and curators have already built careers from her history – many without consent from those who lived that history.
 
 #### Reflection
+
+I chose to format this recent news article I wrote because it was separated in different sections and included data and charts I could make sure are communicated to the reader properly. I decided to put the individual sections in smaller headers than before, using 3 #'s rather than 2, as these sections are key points within the article and I did not want to make them feel separate. This formatting style is also more similar to how it appears on the [MN Daily's website](https://mndaily.com/294574/campus/weisman-is-taking-steps-to-return-their-indigenous-artifacts-but-more-can-be-done/). This article also includes an image and a chart graphic, which I could simply include by using my "images" folder created in the previous assignment. I formatted one piece of statistical data that helps explain the story in a brief list below my chart graphic, and I felt as though this was the only place I could include that type of formatting without changing too much about the way the article is written. I italicized the image captions to separate them from the rest of the article, and I bolded the sub-head to mark its importance on the article's visual hierarchy. There were a number of embedded links which cite information in this article, so I felt I could naturally include this within markdown. News articles are typically broken down into 1-2 sentence paragraphs, so I felt this article could be an applicable example of using paragraphs within the markdown format. I also selected this article as I felt as though this article's information is important to share, and utilizes some statistical information in a way to explain the key points quite well.
