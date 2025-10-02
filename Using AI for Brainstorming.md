@@ -1,5 +1,5 @@
 # AI Generated List
-(Note: I have added formatting manually in markdown to match the formatting the AI response used in Gemini's own UI).
+(Note: I have added formatting manually in markdown to match the formatting the AI response used in Gemini's own UI. That is, the use of headers and bolded text with bullet points).
 
 
 That's a great request! Here's a list of possible essay topics related to technical or professional writing, categorized for different angles:
